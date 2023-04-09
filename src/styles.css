@@ -1,0 +1,28 @@
+@media (max-width: 767px) {
+  .ant-space-vertical {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+}
+
+.ant-btn-primary {
+  color: #fff;
+}
+
+.ant-btn-default {
+  background-color: #fff;
+}
+
+input {
+  text-transform: uppercase;
+}
+
+.ant-layout-footer {
+  text-align: center;
+}
+
+.ant-form-item-control-input-content span {
+  display: flex;
+}

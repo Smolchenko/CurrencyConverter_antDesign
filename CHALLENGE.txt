@@ -1,0 +1,7 @@
+Currency Converter: 
+Create a currency converter app that 
+allows users to convert between different currencies. 
+
+You can use an API like Fixer 
+to retrieve the currency exchange rates.
+2roOp2yXcDEWy1y5cj8paHqtQEFwVHjp
